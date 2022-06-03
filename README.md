@@ -22,7 +22,7 @@ Cluster 0 (blue)(24103 members):
     Passenggers who have Low Total distance (km) flights that have been done
     Passengger who have low Number of customer flights
     Passengger who have low last flight time to last flight order interval
-    assengger who have high member duration. Cluster 0 is passenggers who is long time member.
+    Passengger who have high member duration. Cluster 0 is passenggers who is long time member.
 
 They may have taken a few flights and have not taken the airline ’s plane again. They are considered lost customers. You should try to grasp the latest information of these customers, maintain interaction with customers, and adopt certain marketing methods such as preferential measures and cross-selling to restore such customers.
 
@@ -48,7 +48,7 @@ Cluster 3 (Cyan) (5263 members):
     Passenggers who have low Total distance (km) flights that have been done
     Passengger who have low Number of customer flights
     Passengger who have high last flight time to last flight order interval
-    assengger who have low member duration. Cluster 3 is passengers who used our flight lately. Need to maintain well, you can also use member upgrade measures.
+    Passengger who have low member duration. Cluster 3 is passengers who used our flight lately. Need to maintain well, you can also use member upgrade measures.
 
 Cluster 1 (Green) (4809 members):
 
@@ -56,7 +56,7 @@ Cluster 1 (Green) (4809 members):
     Passenggers who have Low Total distance (km) flights that have been done
     Passengger who have low Number of customer flights
     Passengger who have low last flight time to last flight order interval
-    assengger who have short member duration. Cluster 1 is passenggers who doesnt interested with the company flight (flight rarely) It has low data in all aspects and belongs to low-value users. For these users, they should be maintained as much as possible, and then stimulate their consumption to stimulate their consumption vitality.
+    Passengger who have short member duration. Cluster 1 is passenggers who doesnt interested with the company flight (flight rarely) It has low data in all aspects and belongs to low-value users. For these users, they should be maintained as much as possible, and then stimulate their consumption to stimulate their consumption vitality.
 
 Conclusion:
 
